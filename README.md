@@ -1,0 +1,2 @@
+# nagiosXI
+install nagiosXI latest
